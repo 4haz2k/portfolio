@@ -32,7 +32,8 @@
 -	Реализована система загрузки внешности персонажей
 -	Реализована система покупки готовых наборов внутриигровых предметов
 -	Реализована система тех. поддержки с использованием API VK в группе социальной сети «ВКонтакте»
-
+### Репозиторий
+https://github.com/4haz2k/NeteherCraft-Old (Archived)
 ## Разработка бота VK для онлайн-школы umschool.net
 ![](https://github.com/4haz2k/portfolio/blob/e1d51f02f7e160be4475fd41314ccc51b71e63d6/umschool-1.png)
 ![](https://github.com/4haz2k/portfolio/blob/e1d51f02f7e160be4475fd41314ccc51b71e63d6/umschool-2.png)
@@ -43,7 +44,8 @@
 -	Формирование Excel файлов с успеваемостью учеников
 -	Получение данных успеваемости по индивидуальному ученику  
 -	Импорт документов на сервер и в базу данных за короткое время 
-
+### Репозиторий
+https://github.com/4haz2k/Ymskyl (Archived)
 ## Проект mnsgame.ru
 ![](https://github.com/4haz2k/portfolio/blob/e1d51f02f7e160be4475fd41314ccc51b71e63d6/mns-1.png)
 ![](https://github.com/4haz2k/portfolio/blob/e1d51f02f7e160be4475fd41314ccc51b71e63d6/mns-2.png)
@@ -57,7 +59,8 @@
 -	Добавление / удаление / изменение серверов
 -	Реализован эквайринг в проекте
 -	Реализована админ панель администратора на основе API Яндекс Метрики 
-
+### Репозиторий
+https://github.com/4haz2k/GSMS
 ## Дипломный проект «Разработка серверной части модуля предоставления услуг в сфере дополнительного профессионального образования» 
 ![](https://github.com/4haz2k/portfolio/blob/77b748e69cd17aec9a1478b3abac777f8dbd3f9f/cno-1.png)
 ![](https://github.com/4haz2k/portfolio/blob/77b748e69cd17aec9a1478b3abac777f8dbd3f9f/cno-2.png)
