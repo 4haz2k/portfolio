@@ -62,6 +62,7 @@ https://github.com/4haz2k/cno.kai
 -	Личный кабинет на чистом PHP с использованием RedBeanPHP ORM
 -	Подключена ЮKassa (Yandex Kassa) с использованием API
 -	Реализована страница новостей 
+-	Разработано Desktop приложение на C# с использованием Entity Framework и WPF для отображения начислений для удобства работы бухгалтеру
 	
 ## Доработка сайта KTPP Спецодежда ktpp.ru
 ![](https://github.com/4haz2k/portfolio/blob/e1d51f02f7e160be4475fd41314ccc51b71e63d6/ktpp-1.png)
