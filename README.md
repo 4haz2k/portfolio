@@ -51,7 +51,7 @@ https://github.com/4haz2k/mnsgame
 ### Репозиторий
 https://github.com/4haz2k/cno.kai
 
-# Freelance (крупные проекты)
+# Freelance (наиболее значимые проекты)
 ## Сайт садового общества sntagat.ru
 ![Снт Агат](https://github.com/4haz2k/portfolio/blob/e1d51f02f7e160be4475fd41314ccc51b71e63d6/sntagat-1.png)
 ![Снт Агат](https://github.com/4haz2k/portfolio/blob/e1d51f02f7e160be4475fd41314ccc51b71e63d6/sntagat-2.png)
